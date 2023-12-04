@@ -1,4 +1,6 @@
-Hi I'm Aiclys and I'm a 15 year old who is learning Linux and programming in general
+Hi I'm Aiclys and I'm a 15 year old who is learning Linux and programming in general. 
+Feel free to look at my different repositories and report any errors or issues you find as It'll help improve my skills and I will be able to 
+fix them
 
 <!---
 Aiclys/Aiclys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
