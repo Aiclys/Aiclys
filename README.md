@@ -9,7 +9,7 @@ fix them**
 + finish qtile dotfiles
 + python translation library
 + python encrypter/decrypter
-+ learn emacs
++ learn doom emacs and org mode
   
 <!---
 Aiclys/Aiclys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
