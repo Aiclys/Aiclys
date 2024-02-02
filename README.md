@@ -7,8 +7,8 @@ fix them**
 
 ## **To-Dos:**
 + finish qtile dotfiles
-+ python translation library
-+ python encrypter/decrypter
++ python discord bot
++ learn lojba
 + learn doom emacs and org mode
   
 <!---
