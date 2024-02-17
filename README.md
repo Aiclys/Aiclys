@@ -1,6 +1,6 @@
 # **Welcome to my GitHub profile!**
 
-**There's no place like ~**
+**There's no place like '~'**
 
 
 ## **To-Dos:**
