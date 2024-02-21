@@ -2,6 +2,8 @@
 
 There's no place like ~
 
+Here's a link to my personal [website](https://www.nyrs.garden/)
+
 
 ## **To-Dos:**
 + finish qtile dotfiles
