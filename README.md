@@ -6,12 +6,8 @@ Here's a link to my personal [website](https://www.nyrs.garden/)
 
 
 ## **To-Dos:**
-+ finish qtile dotfiles
++ finish jabba's realm
 + python discord bot
 + finish mais script
 + at least 1 commit per day
-  
-<!---
-Aiclys/Aiclys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
